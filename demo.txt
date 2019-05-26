@@ -5,3 +5,5 @@
 +, Thêm chức năng 4
 
 +, Thêm chức năng 5
+
++, Thêm chức năng 6
