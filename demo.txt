@@ -1,1 +1,1 @@
-﻿hello word
+﻿+, thêm chức năng 1
