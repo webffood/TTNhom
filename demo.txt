@@ -7,3 +7,5 @@
 +, Thêm chức năng 5
 
 +, Thêm chức năng 6
+
++, Thêm chức năng 7
