@@ -1,1 +1,4 @@
 ﻿+, thêm chức năng 1
+
+
++, thêm chức năng 2
